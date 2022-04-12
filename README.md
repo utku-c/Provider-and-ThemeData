@@ -1,12 +1,33 @@
 # example_provider_and_themedata
 
-A new Flutter project.
+Yeni bir flutter projesi.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Provider kullanımı.
+Tema seçenekleri  kullanımı 
 
-A few resources to get you started if this is your first Flutter project:
+
+![EkranGörüntüsü](https://github.com/utku-c/Provider-and-ThemeData/blob/main/lib/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Screenshot_1649793724.png?raw=true)
+
+#
+
+![EkranGörüntüsü](https://github.com/utku-c/Provider-and-ThemeData/blob/main/lib/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Screenshot_1649793726.png?raw=true)
+
+#
+
+![EkranGörüntüsü](https://github.com/utku-c/Provider-and-ThemeData/blob/main/lib/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Screenshot_1649793729.png?raw=true)
+
+
+
+#
+
+![EkranGörüntüsü](https://github.com/utku-c/Provider-and-ThemeData/blob/main/lib/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC/Screenshot_1649793734.png?raw=true)
+
+
+
+
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
